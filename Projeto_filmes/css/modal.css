@@ -9,8 +9,8 @@ body{
 }
 
 .modal{
-  min-height: 100vh;
-      display: flex;
+    min-height: 100vh;
+    display: flex;
     align-items: center;
     justify-content: center;
 }
@@ -108,4 +108,6 @@ font-weight: 600;
 
 button a{
     text-decoration: none;
+    color:#fff;
 }
+
