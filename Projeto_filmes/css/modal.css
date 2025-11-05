@@ -13,6 +13,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+    margin: 0 15px;
 }
 
 form{
@@ -110,5 +111,6 @@ button a{
     text-decoration: none;
     color:#000;
 }
+
 
 
