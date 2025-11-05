@@ -149,7 +149,8 @@ background-image: url(../images/card-9.webp) ;
 background-size: cover;
 }
 }
-@media screen and (min-width: 368px) {
+
+@media screen and (max-width: 768px) {
 
     .input_pesquisa{
      width: 13rem;  
@@ -162,7 +163,7 @@ background-size: cover;
 
 }
 
-@media screen and (min-width: 268px) {
+@media screen and (max-width: 268px) {
 
     .input_pesquisa{
      width: 13rem;  
@@ -174,4 +175,5 @@ background-size: cover;
     }
 
 }
+
 
