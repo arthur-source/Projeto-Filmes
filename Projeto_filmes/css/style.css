@@ -149,4 +149,29 @@ background-image: url(../images/card-9.webp) ;
 background-size: cover;
 }
 }
+@media screen and (min-width: 368px) {
+
+    .input_pesquisa{
+     width: 13rem;  
+     margin-right: 0; 
+    }
+
+    span{
+        display: none;
+    }
+
+}
+
+@media screen and (min-width: 268px) {
+
+    .input_pesquisa{
+     width: 13rem;  
+     margin-right: 0; 
+    }
+
+    span{
+        display: none;
+    }
+
+}
 
