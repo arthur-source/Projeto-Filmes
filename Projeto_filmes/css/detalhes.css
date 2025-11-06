@@ -110,11 +110,24 @@ h2{
 
 @media screen and (max-width: 675px){
 
-    
-    .texto_filme{
-        display: flex;
-    max-width: 330px;
-    padding: 1rem;
+
+.nome_filme{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
 }
 
+.container{
+    width: 100%;
 }
+    
+h2{
+    text-align: center;
+}
+    .texto_filme{
+    margin-top: 1rem;
+    max-width: 100%;    
+}
+}
+
