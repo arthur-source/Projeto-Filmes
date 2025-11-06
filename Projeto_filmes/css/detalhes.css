@@ -83,22 +83,22 @@ span{
     margin-bottom: 10px;
     
     &.card-1{
-background-image: url(../images/card-1.webp) ;
+background-image: url(../images/card-1.jpg) ;
 background-size: cover;
 background-repeat: no-repeat;
 }
     &.card-2{
-background-image: url(../images/card-2.webp) ;
+background-image: url(../images/card-2.jpg) ;
 background-size: cover;
 background-repeat: no-repeat;
 }
     &.card-3{
-background-image: url(../images/card-3.webp) ;
+background-image: url(../images/card-3.jpg) ;
 background-size: cover;
 background-repeat: no-repeat;
 }
     &.card-4{
-background-image: url(../images/card-4.webp) ;
+background-image: url(../images/card-4.jpg) ;
 background-size: cover;
 background-repeat: no-repeat;
 }
@@ -116,4 +116,5 @@ h2{
     max-width: 330px;
     padding: 1rem;
 }
+
 }
