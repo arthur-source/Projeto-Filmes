@@ -119,34 +119,42 @@ width: 100%;
     &.card-1{
 background-image: url(../images/card-1.jpg) ;
 background-size: cover;
+background-repeat: no-repeat;
 }
     &.card-2{
 background-image: url(../images/card-2.jpg) ;
 background-size: cover;
+background-repeat: no-repeat;
 }
     &.card-3{
 background-image: url(../images/card-3.jpg) ;
 background-size: cover;
+background-repeat: no-repeat;
 }
     &.card-4{
 background-image: url(../images/card-4.jpg) ;
 background-size: cover;
+background-repeat: no-repeat;
 }
     &.card-5{
 background-image: url(../images/card-5.jpg) ;
 background-size: cover;
+background-repeat: no-repeat;
 }
     &.card-6{
 background-image: url(../images/card-6.jpg) ;
 background-size: cover;
+background-repeat: no-repeat;
 }
     &.card-7    {
 background-image: url(../images/card-7.jpg) ;
 background-size: cover;
+background-repeat: no-repeat;
 }
     &.card-8{
 background-image: url(../images/card-9.webp) ;
 background-size: cover;
+background-repeat: no-repeat;
 }
 }
 
@@ -175,5 +183,6 @@ background-size: cover;
     }
 
 }
+
 
 
